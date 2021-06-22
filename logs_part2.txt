@@ -1,0 +1,7 @@
+33eaf5e (HEAD -> master, origin/master, feature5, develop) HEAD@{0}: merge develop: Fast-forward
+f3ccba6 (feature2, feature1) HEAD@{1}: checkout: moving from develop to master
+33eaf5e (HEAD -> master, origin/master, feature5, develop) HEAD@{2}: merge feature5: Fast-forward
+8747ff7 (origin/develop) HEAD@{3}: checkout: moving from feature5 to develop
+33eaf5e (HEAD -> master, origin/master, feature5, develop) HEAD@{4}: commit: second change for feature5
+427051e HEAD@{5}: commit: firs change for feature5
+8747ff7 (origin/develop) HEAD@{6}: checkout: moving from develop to feature5
