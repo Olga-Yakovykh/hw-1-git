@@ -1,0 +1,16 @@
+  
+5e63bb1 (HEAD -> develop, origin/develop, feature3) HEAD@{0}: checkout: moving from develop to develop
+5e63bb1 (HEAD -> develop, origin/develop, feature3) HEAD@{1}: checkout: moving from c1236ab80f8ce22d991e80ff4b3bce99f7ae9170 to develop
+c1236ab HEAD@{2}: commit: rebase conflict develop
+6aba159 (feature4) HEAD@{3}: rebase (start): checkout feature4
+5e63bb1 (HEAD -> develop, origin/develop, feature3) HEAD@{4}: rebase (finish): returning to refs/heads/develop
+5e63bb1 (HEAD -> develop, origin/develop, feature3) HEAD@{5}: rebase (start): checkout feature3
+f3ccba6 (origin/master, master, feature2, feature1) HEAD@{6}: checkout: moving from feature3 to develop
+5e63bb1 (HEAD -> develop, origin/develop, feature3) HEAD@{7}: commit (merge): rebase conflick
+cae2eee HEAD@{8}: checkout: moving from feature4 to feature3
+6aba159 (feature4) HEAD@{9}: commit: change for feature4
+f3ccba6 (origin/master, master, feature2, feature1) HEAD@{10}: checkout: moving from develop to feature4
+f3ccba6 (origin/master, master, feature2, feature1) HEAD@{11}: checkout: moving from feature3 to develop
+cae2eee HEAD@{12}: commit: change for feature3
+f3ccba6 (origin/master, master, feature2, feature1) HEAD@{13}: checkout: moving from develop to feature3
+:
