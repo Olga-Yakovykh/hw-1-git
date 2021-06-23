@@ -1,0 +1,22 @@
+5e63bb1 (HEAD -> develop) HEAD@{0}: reset: moving to HEAD~4
+43b771b HEAD@{1}: reset: moving to HEAD~1
+3e6f3cc HEAD@{2}: commit: refresh readme
+43b771b HEAD@{3}: commit: delete branches
+33eaf5e HEAD@{4}: checkout: moving from master to develop
+b8c1b3a (origin/master, master) HEAD@{5}: commit: save
+33eaf5e HEAD@{6}: checkout: moving from master to master
+33eaf5e HEAD@{7}: merge develop: Fast-forward
+f3ccba6 HEAD@{8}: checkout: moving from develop to master
+33eaf5e HEAD@{9}: merge feature5: Fast-forward
+8747ff7 (origin/develop) HEAD@{10}: checkout: moving from feature5 to develop
+33eaf5e HEAD@{11}: commit: second change for feature5
+427051e HEAD@{12}: commit: firs change for feature5
+8747ff7 (origin/develop) HEAD@{13}: checkout: moving from develop to feature5
+8747ff7 (origin/develop) HEAD@{14}: checkout: moving from develop to develop
+8747ff7 (origin/develop) HEAD@{15}: commit: log save
+5e63bb1 (HEAD -> develop) HEAD@{16}: checkout: moving from develop to develop
+5e63bb1 (HEAD -> develop) HEAD@{17}: checkout: moving from c1236ab80f8ce22d991e80ff4b3bce99f7ae9170 to develop
+c1236ab HEAD@{18}: commit: rebase conflict develop
+6aba159 HEAD@{19}: rebase (start): checkout feature4
+5e63bb1 (HEAD -> develop) HEAD@{20}: rebase (finish): returning to refs/heads/develop
+:

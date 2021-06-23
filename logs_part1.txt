@@ -1,3 +1,4 @@
+
 5e63bb1 (HEAD -> develop, origin/develop, feature3) HEAD@{0}: checkout: moving from develop to develop
 5e63bb1 (HEAD -> develop, origin/develop, feature3) HEAD@{1}: checkout: moving from c1236ab80f8ce22d991e80ff4b3bce99f7ae9170 to develop
 c1236ab HEAD@{2}: commit: rebase conflict develop
@@ -12,4 +13,3 @@ f3ccba6 (origin/master, master, feature2, feature1) HEAD@{10}: checkout: moving 
 f3ccba6 (origin/master, master, feature2, feature1) HEAD@{11}: checkout: moving from feature3 to develop
 cae2eee HEAD@{12}: commit: change for feature3
 f3ccba6 (origin/master, master, feature2, feature1) HEAD@{13}: checkout: moving from develop to feature3
-:

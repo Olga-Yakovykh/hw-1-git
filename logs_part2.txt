@@ -1,3 +1,4 @@
+
 33eaf5e (HEAD -> master, origin/master, feature5, develop) HEAD@{0}: merge develop: Fast-forward
 f3ccba6 (feature2, feature1) HEAD@{1}: checkout: moving from develop to master
 33eaf5e (HEAD -> master, origin/master, feature5, develop) HEAD@{2}: merge feature5: Fast-forward
